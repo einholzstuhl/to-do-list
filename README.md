@@ -23,7 +23,7 @@ Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
 - Online Sichern
   - Account erstellen -einloggen -ausloggen -löschen 
 - Offline Sichern
-  - Offline Backup speichern, wiederherstellen
+  - Offline Backup speichern -wiederherstellen
 
 **Sprachen**
 - Deutsch
