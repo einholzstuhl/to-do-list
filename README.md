@@ -10,7 +10,7 @@ Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
 **Benachrichtigungen**
 - außerhalb der App
   - Handy, E-Mail
-- innherlab der App
+- innherhalb der App
   - Glocke oben
 
 **Zeit/Datum Anzeige**
