@@ -1,7 +1,7 @@
 # to-do-list
 
 ### Welches Problem soll mit der Software gelöst werden?
-Diese Software soll das Erledigen von Aufgaben in Alltag erleichtern.
+Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
 
 ### Features
 **Aufgaben**
