@@ -1,4 +1,4 @@
-# to-do-list-
+# to-do-list
 
 ### Welches Problem soll mit der Software gelöst werden?
 Diese Software soll das Erledigen von Aufgaben in Alltag erleichtern.
