@@ -11,9 +11,11 @@ Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
 - wiederherstellen
 
 **Benachrichtigungen**
-- Handy
-- E-Mail
-- Glocke oben?
+- außerhalb der App
+  - Handy
+  - E-Mail
+- innherlab der App
+  - Glocke oben
 
 **Zeit/Datum Anzeige**
 - Uhrzeit
