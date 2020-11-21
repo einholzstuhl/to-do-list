@@ -21,13 +21,9 @@ Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
 
 **Daten sichern**
 - Online Sichern
-  - Account erstellen, einloggen
+  - Account erstellen -einloggen -ausloggen -löschen 
 - Offline Sichern
   - Offline Backup speichern, wiederherstellen
-- Daten
-  - herunterladen
-  - alle löschen
-  - offline speichern
 
 **Sprachen**
 - Deutsch
