@@ -20,10 +20,10 @@ Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
 - Datums
 
 **Daten sichern**
-- Account
-  - erstellen
-  - einloggen
-  - offline Backup speichern, wiederherstellen
+- Online Sichern
+  - Account erstellen, einloggen
+- Offline Sichern
+  - Offline Backup speichern, wiederherstellen
 - Daten
   - herunterladen
   - alle löschen
