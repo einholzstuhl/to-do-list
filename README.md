@@ -1,7 +1,7 @@
 # to-do-list
 
-### Welches Problem soll mit der Software gelöst werden?
-Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
+### Beschreibung
+Eine to-do-list Web-App die das Erledigen von Aufgaben im Alltag erleichtern soll.
 
 ### Features
 **Aufgaben**
