@@ -18,9 +18,9 @@ Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
 - Datum
 
 **Daten sichern**
-- Online Sichern
+- Online
   - Account erstellen -einloggen -ausloggen -löschen 
-- Offline Sichern
+- Offline
   - Offline Backup speichern -wiederherstellen
 
 **Sprachen**
