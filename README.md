@@ -1,5 +1,5 @@
-# to-do-list
 ![App Logo](https://i.imgur.com/RB2Wdgf.png)
+# to-do-list
 
 ### Beschreibung
 Eine to-do-list Web-App die das Erledigen von Aufgaben im Alltag erleichtern soll.
