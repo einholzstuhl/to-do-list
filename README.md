@@ -5,21 +5,17 @@ Diese Software soll das Erledigen von Aufgaben im Alltag erleichtern.
 
 ### Features
 **Aufgaben**
-- erstellen
-- bearbeiten
-- löschen
-- wiederherstellen
+- erstellen, bearbeiten, löschen, wiederherstellen
 
 **Benachrichtigungen**
 - außerhalb der App
-  - Handy
-  - E-Mail
+  - Handy, E-Mail
 - innherlab der App
   - Glocke oben
 
 **Zeit/Datum Anzeige**
 - Uhrzeit
-- Datums
+- Datum
 
 **Daten sichern**
 - Online Sichern
